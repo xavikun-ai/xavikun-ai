@@ -1,47 +1,77 @@
-## Hi there 👋 I´m Xavi
+# 👋 Hi, I'm Xavi
 
-AI-native Product Leader building systems at the intersection of **cities, data, and intelligent agents**.
+I design AI-powered systems that connect **cities, behavior, and intelligent infrastructure**.
 
-I don’t just ship features — I design **living systems**.
+While most people build AI tools, I focus on building **systems that understand and operate real-world environments**.
 
----
-
-## 🧠 What I Do
-
-- 🏙️ Building **GomiGuide** → Layered city intelligence
-- 🐛 Building **Mingafix** → Urban bugs into structured data
-- 🤖 Designing AI agents (Valentina, Yume, AskGomi)
-- ⚙️ Automating workflows with n8n + AI
+I operate at the intersection of:
+- 🏙️ urban systems  
+- 🤖 intelligent agents  
+- 💸 financial infrastructure  
 
 ---
 
-## ⚡ My Philosophy
+## 🧠 What I Build
+
+- 🏙️ **City Intelligence Systems**  
+  Structuring urban environments into usable data layers (GomiGuide, Mingafix)
+
+- 🤖 **AI Agents & Decision Systems**  
+  Designing agents with memory, workflows, and real-world interaction (Valentina, Yume, AskGomi)
+
+- ⚙️ **Automation Infrastructure**  
+  Building AI-powered workflows (n8n + APIs) that support decision-making systems
+
+- 💸 **Financial Infrastructure (Crypto)**  
+  Working on scalable financial systems in high-complexity environments (Stable / Tether group)
+
+---
+
+## ⚡ How I Think
 
 > Cities are broken products.  
 > I build systems that help them think.
 
----
+- Product = System Design  
+- AI = Interface to reality  
+- Data = Behavior in space  
 
-## 🧰 Tools
-
-- n8n
-- OpenAI / Claude
-- Notion / Asana
-- APIs & automation
+I don’t think in features.  
+I think in **systems, feedback loops, and real-world impact**.
 
 ---
 
-## 🧪 Experiments
+## 🧪 Systems & Experiments
 
-- SwingBuddy: A vibe coded app for amateur golfers
-- AI agents ecosystem
-- City intelligence layer
+- SwingBuddy → golf training system focused on feel over metrics  
+- EuroAion Tracker (BM) → gameplay optimization system (loops, resources, progression)  
+- Valentina → AI nurse with emotional intelligence + monetization model  
+- Yume → home operations agent (IoT + assistant layer)  
+- AskGomi → AI layer for interacting with cities  
+
+---
+
+## 🧰 Stack (Applied, not theoretical)
+
+- Automation → n8n  
+- AI → OpenAI, Claude, local agents  
+- Product → Notion, Asana, Figma  
+- Infra (learning) → APIs, webhooks, lightweight backend logic  
+
+---
+
+## 🎯 Current Focus
+
+- Designing **AI-first product ecosystems**  
+- Building **self-learning agents**  
+- Structuring **city-scale intelligence layers**  
+- Transitioning from Product → **AI CPO / Founder**
 
 ---
 
 ## 🌎 Vision
 
-To build the operating system for cities.
+To build the **operating system for cities**.
 
 ---
 
